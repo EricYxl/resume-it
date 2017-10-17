@@ -20,6 +20,7 @@
   "devDependencies": {
     "browser-sync": "^2.18.7",
     "colors": "^1.1.2",
+    "cross-env": "^5.1.0",
     "font-awesome": "^4.7.0",
     "glob": "^7.1.1",
     "gray-matter": "^2.1.0",
